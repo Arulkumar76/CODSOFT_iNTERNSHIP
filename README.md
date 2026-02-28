@@ -1,7 +1,7 @@
 Overview:
           During my internship, I successfully completed three frontend web development tasks using HTML, CSS, and JavaScript. These tasks helped me improve my skills in designing responsive and interactive web applications.
 
-# Task 1: Portfolio Website#
+# Task 1: Portfolio Website #
 Description:A personal portfolio website designed to showcase my profile, skills, and projects.
 Technologies Used:
   HTML5
@@ -15,7 +15,7 @@ Contact Section
 
 Objective:To create a clean and professional personal portfolio website.
 
-# Task 2: Landing Page#
+# Task 2: Landing Page #
 Description:
           A modern and responsive landing page designed for product or service promotion.
 
@@ -33,7 +33,7 @@ Responsive Design
 Objective
 To design a visually appealing and user-friendly landing page.
 
-# Task 3: Calculator Web App#
+# Task 3: Calculator Web App #
 Description:
         A functional calculator web application that performs basic arithmetic operations.
 
